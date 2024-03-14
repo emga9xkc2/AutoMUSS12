@@ -1,4 +1,8 @@
 Elbeland3,10,6
+Devias,20,13
+Devias2,20,13
+Devias3,20,13
+Devias4,20,13
 Dungeon2,40,26
 Kanturu_Remain,230,153
 Karutan1,170,113
