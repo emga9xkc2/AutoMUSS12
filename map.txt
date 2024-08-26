@@ -5,6 +5,7 @@ Devias3,20,13
 Devias4,20,13
 Dungeon2,40,26
 Arena,50,33
+Stadium,20,20
 Kanturu_Remain,230,153
 Karutan1,170,113
 Karutan2,170,113
