@@ -7,6 +7,7 @@ Dungeon2,40,26
 Arena,50,33
 Stadium,20,20
 Kanturu_Remain,230,153
+Kanturu_Remain-N,230,153
 Karutan1,170,113
 Karutan2,170,113
 Raklion,280,186
